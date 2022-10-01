@@ -14,11 +14,19 @@
     2. Название
     3. Количество
     4. Расстояние
-2. База данных была создана в PostgreSQL
+    
+    
+2. База данных была создана в PostgreSQL. На express.js написала мини api) 
+
+![db](https://github.com/AizhanSmekenova/Test_Task/blob/main/db.png)
+![api](https://github.com/AizhanSmekenova/Test_Task/blob/main/api.png)
+
 3. Таблица содержит сортировку по всем полям кроме даты. (по клику по шапке)
 Фильтрация в виде текстового поля для ввода значения для фильтрации
 
 4. Таблица содержит пагинацию
+
+![table](https://github.com/AizhanSmekenova/Test_Task/blob/main/table.2022-10-01%2020_54_50.gif)
 
 Запускается следующим образом:
 
