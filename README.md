@@ -16,7 +16,8 @@
     4. Расстояние
     
     
-2. База данных была создана в PostgreSQL. На express.js написала мини api) 
+2. База данных была создана в PostgreSQL. На express.js написала api
+
 
 ![db](https://github.com/AizhanSmekenova/Test_Task/blob/main/db.png)
 ![api](https://github.com/AizhanSmekenova/Test_Task/blob/main/api.png)
